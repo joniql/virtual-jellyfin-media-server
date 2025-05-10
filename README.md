@@ -108,12 +108,6 @@ docker-compose up -d
 
 ---
 
-## 📜 License
-
-MIT
-
----
-
 ## 🤝 Acknowledgments
 
 - [Jellyfin](https://jellyfin.org/)
